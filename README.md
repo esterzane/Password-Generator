@@ -9,6 +9,8 @@ This project uses the following technologies:
 
 ## Preview
 
-You can view a preview video of the project:
+You can view a preview of the project:
+![Preview Image](assets/Captura%20de%20ecrã%202025-01-07%2C%20às%2021.27.09.png)
 
-[Preview Video] 🎥 [assets/GRpassword%20preview%20video.mov]
+You can also view a preview video:
+[Preview Video 🎥](assets/preview_video.mov)
